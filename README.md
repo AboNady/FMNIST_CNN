@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
   <a href="https://i.imgur.com/BprYxHn.png">
-    <img src="https://i.imgur.com/BprYxHn.png" alt="Logo" width="460" height="444">
+    <img src="https://i.imgur.com/BprYxHn.png" alt="Logo" width="810" height="704">
   </a>
 <br/>
 
@@ -61,7 +61,7 @@
 <br/>
 
   <a href="https://i.imgur.com/e0qtqws.png">
-    <img src="https://i.imgur.com/e0qtqws.png" alt="Logo" width="460" height="444">
+    <img src="https://i.imgur.com/e0qtqws.png" alt="Logo" width="660" height="650">
   </a>
 <br/>
 
