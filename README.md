@@ -26,7 +26,7 @@
 
 ## Details
 
-* Feature engineering was the best thing I learned in this project; I dropped the nan columns because they were misleading for the classification algorithm. -
+* This code mainly uses the CNN module from 'CNN Explainer' (Tiny VGG) and I followed the 'Pytorch in 1 day' course There are 3 main 
 
 <br/>
 <br/>
