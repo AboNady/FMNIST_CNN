@@ -1,7 +1,7 @@
 <h1 align="center">Fashion MNIST Classification - Accuracy 92.6% </h1>
 <div>
   <p align="center">
-    This project is a convolutional neural network (CNN) built using PyTorch that classifies images from the Fashion-MNIST dataset. The network consists of several layers, including convolutional, pooling, and fully connected layers. The model achieved an accuracy of 92.6%
+    This project is a convolutional neural network (CNN) built using PyTorch that classifies images from the Fashion-MNIST dataset. The network consists of several layers, including convolutional, pooling, and fully connected layers. The model achieved an accuracy of 92.1%
     <br/>
   </p>
 </div>
