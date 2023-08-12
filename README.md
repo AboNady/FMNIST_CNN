@@ -37,7 +37,7 @@
   </a>
 <br/>
 
-## With 50 epochs running on the GPU, it took a total time of 1858.9 Seconds using Google Colab, by the way I still do not know why Test loss is increasing after decreasing.
+## I ran the model for 50 epochs on the GPU using Google Colab and it took 1858.9 seconds in total. However, I'm not sure why the test loss went up after going down initially.
 
 
 <br/>
@@ -52,7 +52,7 @@
   </a>
 <br/>
 
-## As we see it is pretty good, however, I was wondering why shirts are mixed with T-shirts so I looked at the dataset and I found that I as a human got confused as well, as the properties are not very different. Other than that, I think it is good.
+## The results of the classification task are satisfactory, but there is one issue that needs to be addressed. The model seems to have difficulty distinguishing between shirts and T-shirts, which are two different categories. To investigate the cause of this confusion, I examined the dataset and realized that the features of the two classes are very similar. Therefore, it might be necessary to either add more distinctive features or merge the two classes into one. Apart from this problem, the model performs well on the other categories.
 
 <br/>
 <br/>
@@ -65,8 +65,7 @@
   </a>
 <br/>
 
-## Some predictions and it confuses between T-shirts and shirts
-
+## The model makes some errors and cannot distinguish shirts from T-shirts.
 <br/>
 <br/>
 
