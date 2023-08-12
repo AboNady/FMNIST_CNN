@@ -33,11 +33,11 @@
 <br/>
 <div align="center">
   <a href="https://i.imgur.com/BprYxHn.png">
-    <img src="https://i.imgur.com/BprYxHn.png" alt="Logo" width="860" height="444">
+    <img src="https://i.imgur.com/BprYxHn.png" alt="Logo" width="460" height="444">
   </a>
 <br/>
 
-## With 50 epochs running on the GPU, it took total time of 1858.9 Seconds using Google Colab, by the way I still do not know why Test loss is increasing after decreasing.
+## With 50 epochs running on the GPU, it took a total time of 1858.9 Seconds using Google Colab, by the way I still do not know why Test loss is increasing after decreasing.
 
 
 <br/>
@@ -48,7 +48,7 @@
 <br/>
 
   <a href="https://i.imgur.com/VcwaBa6.png">
-    <img src="https://i.imgur.com/VcwaBa6.png" alt="Logo" width="860" height="444">
+    <img src="https://i.imgur.com/VcwaBa6.png" alt="Logo" width="460" height="444">
   </a>
 <br/>
 
@@ -61,7 +61,7 @@
 <br/>
 
   <a href="https://i.imgur.com/e0qtqws.png">
-    <img src="https://i.imgur.com/e0qtqws.png" alt="Logo" width="860" height="444">
+    <img src="https://i.imgur.com/e0qtqws.png" alt="Logo" width="460" height="444">
   </a>
 <br/>
 
