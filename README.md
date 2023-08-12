@@ -111,8 +111,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 *  The [source](https://www.learnpytorch.io/?ref=mrdbourke.com)
 *  The [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
   
-*  
-
 
 ## Contacts
 * Via Email: Mahmoud.Nady@Ejust.edu.eg
