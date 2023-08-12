@@ -48,7 +48,7 @@
 <br/>
 
   <a href="https://i.imgur.com/VcwaBa6.png">
-    <img src="https://i.imgur.com/VcwaBa6.png" alt="Logo" width="460" height="444">
+    <img src="https://i.imgur.com/VcwaBa6.png" alt="Logo" width="660" height="644">
   </a>
 <br/>
 
